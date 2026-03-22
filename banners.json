@@ -25,7 +25,7 @@
     {
       "id": 3,
       "activo": true,
-      "fecha_fin": 2026-04-30,
+      "fecha_fin": "2026-04-30",
       "titulo": "Banner desactivado",
       "subtitulo": "Este no aparece en la app",
       "boton_texto": "Ver",
