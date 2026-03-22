@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "activo": false,
+      "activo": true,
       "fecha_fin": null,
       "titulo": "Banner desactivado",
       "subtitulo": "Este no aparece en la app",
