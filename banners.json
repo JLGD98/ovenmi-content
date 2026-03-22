@@ -10,6 +10,28 @@
       "boton_url": "https://ovenmi.com",
       "color_fondo": "#2563eb",
       "imagen": null
+    },
+    {
+      "id": 2,
+      "activo": true,
+      "fecha_fin": "2026-04-30",
+      "titulo": "20% de descuento esta semana",
+      "subtitulo": "Renueva tu licencia antes del 30 de abril",
+      "boton_texto": "Ver oferta",
+      "boton_url": "https://ovenmi.com/renovar",
+      "color_fondo": "#9f1239",
+      "imagen": null
+    },
+    {
+      "id": 3,
+      "activo": false,
+      "fecha_fin": null,
+      "titulo": "Banner desactivado",
+      "subtitulo": "Este no aparece en la app",
+      "boton_texto": "Ver",
+      "boton_url": "",
+      "color_fondo": "#7c3aed",
+      "imagen": null
     }
   ]
 }
