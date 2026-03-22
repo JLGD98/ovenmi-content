@@ -1,0 +1,15 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "activo": true,
+      "fecha_fin": null,
+      "titulo": "¡Bienvenido a Ovenmi!",
+      "subtitulo": "Tu herramienta de panadería y pastelería",
+      "boton_texto": "Conocer más",
+      "boton_url": "https://ovenmi.com",
+      "color_fondo": "#2563eb",
+      "imagen": null
+    }
+  ]
+}
